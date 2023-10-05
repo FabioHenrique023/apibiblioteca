@@ -1,0 +1,13 @@
+fastapi
+redis
+requests
+psutil
+pyjwt
+gunicorn
+uvicorn[standard]
+elastic-apm
+SQLAlchemy==2.0.20
+psutil==5.9.5
+psycopg2==2.9.7
+pydantic==1.10.10
+asyncpg
