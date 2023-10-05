@@ -4,7 +4,7 @@ A Biblioteca API tem como objetivo gerenciar o processo interno de uma bibliotec
 
 ## Tecnologias Utilizadas
 
-- <img src="fastapi-icon.png" width="16" height="16"> [FastAPI](https://fastapi.tiangolo.com/): Framework web para desenvolvimento rápido de APIs.
+- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Ffastapi.svg&tbnid=ITlevXsyN2gy3M&vet=12ahUKEwivvq3f0d-BAxV0HrkGHWzMBkAQMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Ffastapi-1&docid=-4I7WYgmWFkRpM&w=2500&h=2500&q=icone%20do%20fastapi&client=opera-gx&ved=2ahUKEwivvq3f0d-BAxV0HrkGHWzMBkAQMygAegQIARBM" width="16" height="16"> [FastAPI](https://fastapi.tiangolo.com/): Framework web para desenvolvimento rápido de APIs.
 - <img src="python-icon.png" width="16" height="16"> [Python](https://www.python.org/): Linguagem de programação.
 - <img src="postgresql-icon.png" width="16" height="16"> [PostgreSQL](https://www.postgresql.org/): Banco de dados relacional.
 - <img src="jwt-icon.png" width="16" height="16"> [JWT Authentication](https://jwt.io/): Autenticação baseada em tokens JWT.
