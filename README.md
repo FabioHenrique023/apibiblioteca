@@ -1,5 +1,4 @@
-# apibiblioteca
-# <img src="icone.png" width="50"> APIBIBLIOTECA
+# APIBIBLIOTECA
 
 A Biblioteca API tem como objetivo gerenciar o processo interno de uma biblioteca, incluindo funcionalidades para o empréstimo de livros e outras operações relacionadas ao gerenciamento da biblioteca. Atualmente, o projeto está focado no desenvolvimento do back-end da aplicação por meio desta API, com planos futuros para implementar a interface de usuário.
 
@@ -12,16 +11,17 @@ A Biblioteca API tem como objetivo gerenciar o processo interno de uma bibliotec
 - <img src="vscode-icon.png" width="16" height="16"> [Visual Studio Code (VSCode)](https://code.visualstudio.com/): IDE de desenvolvimento.
 - <img src="insomnia-icon.png" width="16" height="16"> [Insomnia](https://insomnia.rest/): Cliente HTTP para testar a API.
 
-## Funcionalidades
+## Funcionalidades Atuais
 
 - CRUD de Endereços.
-- Autenticação de Usuários.
-- Tipos de Usuários (Administrador, Usuário Comum).
+- CRUD de tipos de usuários.
+- CRUD de usuários
+- Autenticação com JWT
 
 ## Instruções de Uso
 
 1. **Instalação**:
-   - Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+   - Clone este repositório: `git clone https://github.com/FabioHenrique023/apibiblioteca.git`
    - Instale as dependências: `pip install -r requirements.txt`
 
 2. **Configuração do Banco de Dados**:
