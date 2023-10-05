@@ -1,4 +1,4 @@
-# APIBIBLIOTECA
+<h1 align="center">APIBIBLIOTECA</h1>
 
 A Biblioteca API tem como objetivo gerenciar o processo interno de uma biblioteca, incluindo funcionalidades para o empréstimo de livros e outras operações relacionadas ao gerenciamento da biblioteca. Atualmente, o projeto está focado no desenvolvimento do back-end da aplicação por meio desta API, com planos futuros para implementar a interface de usuário.
 
@@ -45,3 +45,7 @@ A Biblioteca API tem como objetivo gerenciar o processo interno de uma bibliotec
 ## Autor
 
 Fábio Henrique Santos Moraes
+
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
