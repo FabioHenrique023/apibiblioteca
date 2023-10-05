@@ -5,9 +5,9 @@ A Biblioteca API tem como objetivo gerenciar o processo interno de uma bibliotec
 ## Tecnologias Utilizadas
 
 - <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="16" height="16"> [FastAPI](https://fastapi.tiangolo.com/): Framework web para desenvolvimento rápido de APIs.
-- <img src="python-icon.png" width="16" height="16"> [Python](https://www.python.org/): Linguagem de programação.
-- <img src="postgresql-icon.png" width="16" height="16"> [PostgreSQL](https://www.postgresql.org/): Banco de dados relacional.
-- <img src="jwt-icon.png" width="16" height="16"> [JWT Authentication](https://jwt.io/): Autenticação baseada em tokens JWT.
+- <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="16" height="16"> [Python](https://www.python.org/): Linguagem de programação.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="16" height="16"> [PostgreSQL](https://www.postgresql.org/): Banco de dados relacional.
+- <img src="https://www.botecodigital.dev.br/wp-content/uploads/2022/06/banner-jwt.png" width="16" height="16"> [JWT Authentication](https://jwt.io/): Autenticação baseada em tokens JWT.
 - <img src="vscode-icon.png" width="16" height="16"> [Visual Studio Code (VSCode)](https://code.visualstudio.com/): IDE de desenvolvimento.
 - <img src="insomnia-icon.png" width="16" height="16"> [Insomnia](https://insomnia.rest/): Cliente HTTP para testar a API.
 
