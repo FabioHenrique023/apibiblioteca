@@ -9,7 +9,7 @@ A Biblioteca API tem como objetivo gerenciar o processo interno de uma bibliotec
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="16" height="16"> [PostgreSQL](https://www.postgresql.org/): Banco de dados relacional.
 - <img src="https://atitudereflexiva.files.wordpress.com/2021/11/jwt_icon.png" width="16" height="16"> [JWT Authentication](https://jwt.io/): Autenticação baseada em tokens JWT.
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="16" height="16"> [Visual Studio Code (VSCode)](https://code.visualstudio.com/): IDE de desenvolvimento.
-- <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.pngg" width="16" height="16"> [Insomnia](https://insomnia.rest/): Cliente HTTP para testar a API.
+- <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="16" height="16"> [Insomnia](https://insomnia.rest/): Cliente HTTP para testar a API.
 
 ## Funcionalidades Atuais
 
